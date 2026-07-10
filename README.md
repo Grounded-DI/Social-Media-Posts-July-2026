@@ -1,7 +1,7 @@
 ## Public Filing Update — Deterministic Intelligence Non-Provisional Applications
 
 **Status as of 9 July 2026**
-
+ 
 This public filing index summarizes 21 U.S. utility non-provisional patent applications directed to deterministic-intelligence systems, controlled-output architectures, replay verification, runtime authorization, and domain-specific implementation.
 
 | No. | Domain / Nickname | Application No. | Received | Title |
@@ -47,4 +47,4 @@ Across the portfolio, recurring technical themes include:
 >
 > -Mark S. Weinstein, Grounded DI LLC
 >
-> #Grounded-DI #AuditableAI #DeterministicIntelligence  
+> #Grounded-DI #AuditableAI #DeterministicIntelligence "Precision doesn't infer. It traces."
