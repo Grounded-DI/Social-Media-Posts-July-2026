@@ -48,3 +48,4 @@ Across the portfolio, recurring technical themes include:
 > -Mark S. Weinstein, Grounded DI LLC
 >
 > #Grounded-DI #AuditableAI #DeterministicIntelligence "Precision doesn't infer. It traces."
+ 
