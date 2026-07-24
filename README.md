@@ -46,7 +46,7 @@ Across the portfolio, recurring technical themes include:
 
 > This index is a public-facing summary of filing activity and does not state examination status, priority entitlement, claim scope, allowance, or patent issuance.
 >
-> -Mark S. Weinstein, Grounded DI LLC
+> -Mark S. Weinstein, Grounded DI LLC   
 >
 > #Grounded-DI #AuditableAI #DeterministicIntelligence "Precision doesn't infer. It traces."
  
