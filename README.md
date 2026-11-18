@@ -1,14 +1,14 @@
 # Grounded DI Public Record — July 2026
 
-This repository preserves a dated July 2026 public archive from Grounded DI LLC: selected exhibit books, mathematical records, weather and sports analyses, screenshots, public commentary, and related source captures. It is an archival record, not a single experiment or a certification.
+The July 2026 archive brings together curated exhibit and MathWise books, a Belmar weather-decision audit, a sports-risk estimate, and dated public captures. The books index their source paths and distinguish recorded results from outside verification.
 
 ## Key record
 
-- `1_Grounded_DI_Public_Record_Book_3.pdf` — 15 dated or date-linked public-record exhibits, curated from a larger archive.
-- `1_Grounded_DI_Selected_Exhibits_Book_1.pdf` and `1_Grounded_DI_Selected_Exhibits_Book_2.pdf` — 15 normalized exhibits each, with source paths and curation manifests.
-- `1_Grounded_DI_Public_Record_Book_5_MathWise.pdf` — a 23-page mathematical record frozen 31 July 2026.
-- `DI2_Weather_Station_Belmar_Beach_Cloud_Cover_Decision_Audit_2026-07-31.pdf` — operational weather audit.
-- `SportsWise_Analytics_Embiid_2026-27_Injury_Risk_Forecast.pdf` — public-data statistical sports-risk estimate.
+- [1_Grounded_DI_Public_Record_Book_3.pdf](./1_Grounded_DI_Public_Record_Book_3.pdf) — 15 dated or date-linked public-record exhibits, curated from a larger archive.
+- [1_Grounded_DI_Selected_Exhibits_Book_1.pdf](./1_Grounded_DI_Selected_Exhibits_Book_1.pdf) and [1_Grounded_DI_Selected_Exhibits_Book_2.pdf](./1_Grounded_DI_Selected_Exhibits_Book_2.pdf) — 15 normalized exhibits each, with source paths and curation manifests.
+- [1_Grounded_DI_Public_Record_Book_5_MathWise.pdf](./1_Grounded_DI_Public_Record_Book_5_MathWise.pdf) — a 23-page mathematical record frozen 31 July 2026.
+- [DI2_Weather_Station_Belmar_Beach_Cloud_Cover_Decision_Audit_2026-07-31.pdf](./DI2_Weather_Station_Belmar_Beach_Cloud_Cover_Decision_Audit_2026-07-31.pdf) — operational weather audit.
+- [SportsWise_Analytics_Embiid_2026-27_Injury_Risk_Forecast.pdf](./SportsWise_Analytics_Embiid_2026-27_Injury_Risk_Forecast.pdf) — public-data statistical sports-risk estimate.
 - Dated image/PDF captures preserve public statements, recognition, demonstrations, and commentary.
 
 ## Demonstrated or recorded results
@@ -19,7 +19,7 @@ The Belmar audit records **OPERATIONAL DECISION VERIFIED**, peak timing supporte
 
 ## Provenance and boundaries
 
-The exhibit books identify source repositories and paths; where available, their manifests record the commit used for curation. Editorial normalization changes presentation, not source bytes. Screenshots, search captures, public commentary, and recognition records preserve what was shown or posted; they do not independently validate the underlying claim. No patent grant, prosecution outcome, authorship adjudication, product deployment, or third-party acceptance is inferred from this archive.
+The exhibit books identify source repositories and paths; where available, their manifests record the commit used for curation. Editorial normalization changes presentation, not source bytes. Screenshots, search captures, public commentary, and recognition records preserve what was shown or posted; they do not independently validate the underlying claim. Filing, authorship, deployment, and third-party acceptance require their respective records.
 
 ## How to review
 
